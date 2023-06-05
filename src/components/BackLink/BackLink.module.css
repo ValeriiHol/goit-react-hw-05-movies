@@ -1,0 +1,8 @@
+.button_back {
+  display: inline-block;
+  padding: 6px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+  color: rgb(238, 224, 224);
+  background-color: rgb(10, 14, 143);
+}

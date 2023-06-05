@@ -1,0 +1,13 @@
+.nav {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+    font-weight: 600;
+    font-size: 18px;
+    
+   }
+   
+   .nav_link:hover {
+     color: rgb(39, 44, 204);;
+   }
+   
